@@ -179,6 +179,7 @@ function App() {
               <CardContent>
                 <ul className="space-y-3 text-muted-foreground">
                   <li>• Executed the duties of a lecture assistant for CMPSC 221 – Introduction to Object-Oriented Programming with Web Design (Java) by holding office hours to coach over 300 students and help them excel in the class.</li>
+                  <li> Testing 123.
                 </ul>
               </CardContent>
             </Card>
